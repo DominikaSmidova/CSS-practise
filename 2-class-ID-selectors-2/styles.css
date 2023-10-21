@@ -1,5 +1,5 @@
 .odd-numbered{
-    background-color: #990040;
+    background-color: #e04c8a;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -7,14 +7,13 @@
     font-size: 24px;
 }
 
-#1-ID{
+#firstID{
     color: #0000ff;
     font-size: 36px;
 }
 
-#2-ID{
+#secondID{
     background-color: #409930;
     font-size: 24px;
     font-weight: bold;
 }
-
